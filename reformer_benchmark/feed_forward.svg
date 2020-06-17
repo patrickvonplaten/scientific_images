@@ -86,8 +86,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-92.857143"
+     inkscape:zoom="1.0748023"
+     inkscape:cx="842.88774"
      inkscape:cy="560"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -106,7 +106,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -324,20 +324,6 @@
            id="rect815-3-7-24-3-0-0-0"
            style="opacity:1;vector-effect:none;fill:#506ee1;fill-opacity:1;stroke:#000000;stroke-width:1.64777875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
-      <g
-         id="g854-58-0-6-4-7-6"
-         transform="matrix(0,0.60741131,-0.60634438,0,-11.806748,316.98408)"
-         style="fill:#506ee1;fill-opacity:1;stroke:#000000;stroke-width:1.64777875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-        <rect
-           ry="0"
-           rx="0"
-           y="41.677082"
-           x="15.610416"
-           height="11.641665"
-           width="12.170834"
-           id="rect815-3-7-24-3-0-0-8-2"
-           style="opacity:1;vector-effect:none;fill:#506ee1;fill-opacity:1;stroke:#000000;stroke-width:1.64777875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      </g>
     </g>
     <g
        id="g10244-0-3"
@@ -375,20 +361,6 @@
            id="rect815-3-7-24-3-0-0-0-0-1"
            style="opacity:1;vector-effect:none;fill:#506ee1;fill-opacity:1;stroke:#a4a7a1;stroke-width:1.64777875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
-      <g
-         id="g854-58-0-6-4-7-6-9-1"
-         transform="matrix(0,0.60741131,-0.60634438,0,-11.806748,316.98408)"
-         style="fill:#506ee1;fill-opacity:1;stroke:#a4a7a1;stroke-width:1.64777875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-        <rect
-           ry="0"
-           rx="0"
-           y="41.677082"
-           x="15.610416"
-           height="11.641665"
-           width="12.170834"
-           id="rect815-3-7-24-3-0-0-8-2-6-5"
-           style="opacity:1;vector-effect:none;fill:#506ee1;fill-opacity:1;stroke:#a4a7a1;stroke-width:1.64777875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      </g>
     </g>
     <g
        id="g10244-0-3-9"
@@ -415,15 +387,6 @@
            height="11.641665"
            width="12.170834"
            id="rect815-6-47-74-2-3-2-5-6-8"
-           style="opacity:1;vector-effect:none;fill:#506ee1;fill-opacity:1;stroke:#000000;stroke-width:1.64777875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <rect
-           ry="0"
-           rx="0"
-           y="41.677082"
-           x="15.610416"
-           height="11.641665"
-           width="12.170834"
-           id="rect815-3-7-24-3-0-0-0-0-1-1"
            style="opacity:1;vector-effect:none;fill:#506ee1;fill-opacity:1;stroke:#000000;stroke-width:1.64777875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
       <g
@@ -572,7 +535,7 @@
            style="fill:#000000;stroke-width:0" /></g>    </g>
     <g
        style="stroke-width:1.96800005"
-       transform="matrix(0.50813007,0,0,0.50813007,211.77857,195.08258)"
+       transform="matrix(0.50813007,0,0,0.50813007,207.54521,194.55341)"
        id="g13301">
       <g
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.96800005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -658,7 +621,7 @@
            d="m 505.03,405.23 v 0.53 l 0.01,0.53 0.02,0.52 0.03,0.51 0.04,0.5 0.05,0.5 0.06,0.49 0.07,0.48 0.1,0.47 0.11,0.46 0.12,0.45 0.15,0.45 0.08,0.22 0.09,0.21 0.09,0.21 0.1,0.22 0.1,0.2 0.11,0.21 0.11,0.2 0.12,0.2 c 1.19,1.89 3.07,3.17 5.3,3.17 1.05,0 2.44,-0.28 3.14,-1.21 -0.87,-0.07 -1.61,-0.66 -1.61,-1.68 0,-0.87 0.6,-1.64 1.64,-1.64 1.05,0 1.67,0.71 1.67,1.71 0,2.03 -1.46,3.84 -4.92,3.84 -5.01,0 -10.14,-4.61 -10.14,-12.09 0,-9.03 4.25,-11.75 8.1,-11.75 4.25,0 7.93,3.25 7.93,7.81 0,4.42 -3.51,7.7 -7.59,7.7 l -0.17,-0.98 c 1.61,0 2.68,-0.63 3.54,-1.91 0.85,-1.33 0.88,-2.8 0.88,-4.81 0,-1.99 0,-3.45 -0.94,-4.81 -0.84,-1.22 -1.95,-1.88 -3.65,-1.88 v 0 c -1.75,0 -3.11,1 -3.85,2.55 -0.51,1.03 -0.8,2.78 -0.8,4.87 0,3.38 2.04,5.99 4.82,5.99 l 0.17,0.98 c -2.78,0 -4.31,-1.84 -5.08,-3.42 z" /></g>    </g>
     <g
        style="stroke-width:2.21914291"
-       transform="matrix(0.45062442,0,0,0.45062442,-91.322789,202.03735)"
+       transform="matrix(0.45062442,0,0,0.45062442,-88.147787,200.97901)"
        id="g14551">
       <g
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.94175005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1064,15 +1027,6 @@
            height="11.641665"
            width="12.170834"
            id="rect815-6-47-74-2-3-2-5-6-3"
-           style="opacity:1;vector-effect:none;fill:#506ee1;fill-opacity:1;stroke:#a4a7a1;stroke-width:1.64777875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <rect
-           ry="0"
-           rx="0"
-           y="41.677082"
-           x="15.610416"
-           height="11.641665"
-           width="12.170834"
-           id="rect815-3-7-24-3-0-0-0-0-1-3"
            style="opacity:1;vector-effect:none;fill:#506ee1;fill-opacity:1;stroke:#a4a7a1;stroke-width:1.64777875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
       <g
