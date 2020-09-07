@@ -14,7 +14,7 @@
    version="1.1"
    id="svg88407"
    inkscape:version="1.0 (1.0+r73+1)"
-   sodipodi:docname="EncoderDecoder_start.svg">
+   sodipodi:docname="EncoderDecoder.svg">
   <defs
      id="defs88401">
     <marker
@@ -1912,7 +1912,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
