@@ -99,18 +99,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32904412"
-     inkscape:cx="400"
-     inkscape:cy="560"
+     inkscape:zoom="0.31003422"
+     inkscape:cx="-283.79549"
+     inkscape:cy="555.16182"
      inkscape:document-units="mm"
-     inkscape:current-layer="g45492"
+     inkscape:current-layer="g57828"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1654"
-     inkscape:window-height="1050"
-     inkscape:window-x="2610"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="2560"
      inkscape:window-y="360"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata45653">
     <rdf:RDF>
@@ -150,8 +150,7 @@
            style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14314-6);fill:#1e866a;fill-opacity:1;stroke:none;stroke-width:1.84013;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
            transform="translate(-601.11628,4.97783)"><tspan
              x="-1498.6035"
-             y="1685.6462"><tspan
-               style="fill:#1e866a;fill-opacity:1;stroke:none;stroke-width:1.84013;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">model_flax</tspan></tspan></text>
+             y="1685.6462"><tspan>ModelFlax</tspan></tspan></text>
         <text
            xml:space="preserve"
            id="text14048-54-9-1"
