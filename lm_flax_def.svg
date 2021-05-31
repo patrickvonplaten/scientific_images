@@ -76,6 +76,18 @@
        width="260.81528"
        height="40.69825"
        id="rect50006" />
+    <rect
+       x="-1488.0583"
+       y="1766.6895"
+       width="260.81528"
+       height="40.69825"
+       id="rect14050-2-8-8" />
+    <rect
+       x="-1488.0583"
+       y="1766.6895"
+       width="260.81528"
+       height="40.69825"
+       id="rect57781" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -84,14 +96,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
+     inkscape:zoom="0.32904412"
      inkscape:cx="400"
      inkscape:cy="560"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g45492"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1439"
+     inkscape:window-width="1654"
      inkscape:window-height="1050"
      inkscape:window-x="2610"
      inkscape:window-y="360"
@@ -104,7 +116,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -117,23 +129,21 @@
        transform="matrix(0.82108598,0,0,0.82036357,1739.5844,-1336.9156)"
        style="stroke-width:1.21844">
       <g
-         id="g33098"
-         transform="translate(35.372898,419.96389)"
-         style="stroke-width:1.21844">
+         id="g57828">
         <rect
            style="vector-effect:none;fill:#cee3d8;fill-opacity:0.998184;stroke:#15866c;stroke-width:2.43688;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect42647-1-3-3-8-3-7-3-4-6"
            width="398.49689"
-           height="220.34161"
-           x="-2237.198"
-           y="1227.9928"
+           height="258.47437"
+           x="-2201.8252"
+           y="1647.9565"
            rx="31.40674"
-           ry="30.111494" />
+           ry="35.322651" />
         <text
            xml:space="preserve"
            id="text14312-7"
            style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14314-6);fill:#1e866a;fill-opacity:1;stroke:none;stroke-width:1.21844;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-           transform="translate(-636.48918,-414.98606)"><tspan
+           transform="translate(-601.11628,4.97783)"><tspan
              x="-1498.6035"
              y="1685.6462"><tspan
                style="fill:#1e866a;fill-opacity:1;stroke:none;stroke-width:1.21844;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">model_flax</tspan></tspan></text>
@@ -141,7 +151,7 @@
            xml:space="preserve"
            id="text14048-54-9-1"
            style="font-style:normal;font-weight:normal;font-size:17.6389px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14050-2-1-3);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.21844;"
-           transform="translate(-736.15641,-458.16527)"><tspan
+           transform="translate(-704.88422,-38.20138)"><tspan
              x="-1488.0586"
              y="1782.3842"><tspan
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:Cousine;-inkscape-font-specification:Cousine;stroke-width:1.21844">self.config</tspan></tspan></text>
@@ -149,7 +159,7 @@
            xml:space="preserve"
            id="text14048-9"
            style="font-style:normal;font-weight:normal;font-size:88.1944px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14050-26);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.21844;"
-           transform="translate(-736.15641,-432.26809)"><tspan
+           transform="translate(-704.88422,-12.3042)"><tspan
              x="-1488.0586"
              y="1789.5993"><tspan
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:Cousine;-inkscape-font-specification:Cousine;stroke-width:1.21844">self.key_proj</tspan></tspan></text>
@@ -157,7 +167,7 @@
            xml:space="preserve"
            id="text14048-5-4"
            style="font-style:normal;font-weight:normal;font-size:17.6389px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14050-4-1);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.21844;"
-           transform="translate(-736.15641,-391.93618)"><tspan
+           transform="translate(-704.88422,28.02771)"><tspan
              x="-1488.0586"
              y="1782.3842"><tspan
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:Cousine;-inkscape-font-specification:Cousine;stroke-width:1.21844">self.value_proj</tspan></tspan></text>
@@ -165,7 +175,15 @@
            xml:space="preserve"
            id="text14048-54-7"
            style="font-style:normal;font-weight:normal;font-size:17.6389px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14050-2-8);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.21844;"
-           transform="translate(-736.15641,-358.81952)"><tspan
+           transform="translate(-704.88422,61.14437)"><tspan
+             x="-1488.0586"
+             y="1782.3842"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:Cousine;-inkscape-font-specification:Cousine;stroke-width:1.21844">self.query_proj</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="text14048-54-7-1"
+           style="font-style:normal;font-weight:normal;font-size:17.6389px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14050-2-8-8);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.21844;"
+           transform="translate(-704.88422,96.023975)"><tspan
              x="-1488.0586"
              y="1782.3842"><tspan
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:Cousine;-inkscape-font-specification:Cousine;stroke-width:1.21844">self.query_proj</tspan></tspan></text>
