@@ -729,8 +729,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.15004828"
-     inkscape:cx="-1174.0804"
-     inkscape:cy="2474.0603"
+     inkscape:cx="-578.83543"
+     inkscape:cy="1940.8986"
      inkscape:document-units="mm"
      inkscape:current-layer="g32702"
      inkscape:document-rotation="0"
@@ -3230,64 +3230,12 @@
       </g>
       <text
          xml:space="preserve"
-         id="text14048-1-6-6"
-         style="font-style:normal;font-weight:normal;font-size:88.1944px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14050-3-4-5);fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.19002;"
-         transform="matrix(0.38289589,0,0,0.38265589,-560.44226,1293.7769)"><tspan
-           x="-1488.0586"
-           y="1789.5993"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:Cousine;-inkscape-font-specification:Cousine;stroke-width:2.19002">self.key_proj =</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         id="text14048-5-7-9-7"
-         style="font-style:normal;font-weight:normal;font-size:17.6389px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14050-4-6-2-2);fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.19002;"
-         transform="matrix(0.38289589,0,0,0.38265589,-560.44226,1323.3082)"><tspan
-           x="-1488.0586"
-           y="1782.3842"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:Cousine;-inkscape-font-specification:Cousine;stroke-width:2.19002">self.value_proj =</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         id="text14048-54-03-2-8"
-         style="font-style:normal;font-weight:normal;font-size:17.6389px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14050-2-7-2-0);fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.19002;"
-         transform="matrix(0.38289589,0,0,0.38265589,-560.44226,1350.2811)"><tspan
-           x="-1488.0586"
-           y="1782.3842"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:Cousine;-inkscape-font-specification:Cousine;stroke-width:2.19002">self.query_proj =</tspan></tspan></text>
-      <text
-         xml:space="preserve"
          id="text14312-6-2-4"
          style="font-style:normal;font-weight:normal;font-size:35.2778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14314-5-2-2);fill:#e14300;fill-opacity:1;stroke:none;stroke-width:1.51894;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
          transform="matrix(0.55206241,0,0,0.55171638,-823.99848,1537.3261)"><tspan
            x="-1498.6035"
            y="1685.6462"><tspan
              style="stroke-width:1.51894">ParallelModelPyTorch</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         id="text14048-54-9-1-6-3"
-         style="font-style:normal;font-weight:normal;font-size:17.6389px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14050-2-1-3-0-9);fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.19002;"
-         transform="matrix(0.38289589,0,0,0.38265589,-560.44226,1273.1644)"><tspan
-           x="-1488.0586"
-           y="1782.3842"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:Cousine;-inkscape-font-specification:Cousine;stroke-width:2.19002">self.config</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         id="text14048-54-0-0-4-71"
-         style="font-style:normal;font-weight:normal;font-size:17.6389px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14050-2-2-5-5-0);fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.19002;"
-         transform="matrix(0.38289589,0,0,0.38265589,-560.60899,1377.1672)"><tspan
-           x="-1488.0586"
-           y="1782.3842"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:Cousine;-inkscape-font-specification:Cousine;stroke-width:2.19002">self.logits_proj =</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:8.87184px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.185928"
-         x="-1125.5546"
-         y="1896.5095"
-         id="text7867"
-         transform="scale(0.98163025,1.0187135)"><tspan
-           sodipodi:role="line"
-           id="tspan7865"
-           x="-1125.5546"
-           y="1896.5095"
-           style="stroke-width:0.185928">P</tspan></text>
     </g>
   </g>
 </svg>
