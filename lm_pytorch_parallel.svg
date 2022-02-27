@@ -1021,9 +1021,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3948769"
-     inkscape:cx="-2874.3522"
-     inkscape:cy="157.3083"
+     inkscape:zoom="0.79133817"
+     inkscape:cx="-5800.0576"
+     inkscape:cy="3403.0246"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -6010,36 +6010,6 @@
          x="-1498.6035"
          y="1685.6462"><tspan
            style="stroke-width:1.35381">ParallelModelPyTorch</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text14312-6-2-4"
-       style="font-style:normal;font-weight:normal;font-size:29.0633px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14314-5-2-2);fill:#e14300;fill-opacity:1;stroke:none;stroke-width:0.999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-       transform="scale(1.0189633,0.98138961)"
-       x="192.52119"
-       y="-1605.8949"><tspan
-         x="-1498.6035"
-         y="1680.1478"><tspan
-           style="stroke-width:0.999995">Process 1</tspan></tspan></text>
-    <text
-       y="-1330.655"
-       x="339.09598"
-       xml:space="preserve"
-       id="text14312-6-2-4-3"
-       style="font-style:normal;font-weight:normal;font-size:29.0633px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14314-5-2-2);fill:#e14300;fill-opacity:1;stroke:none;stroke-width:0.999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-       transform="scale(1.0189633,0.98138961)"><tspan
-         x="-1498.6035"
-         y="1680.1478"><tspan
-           style="stroke-width:0.999995">ParallelDataset</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text14312-6-2-4-5"
-       style="font-style:normal;font-weight:normal;font-size:29.0633px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14314-5-2-2);fill:#e14300;fill-opacity:1;stroke:none;stroke-width:0.999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-       transform="scale(1.0189633,0.98138961)"
-       x="587.815"
-       y="-1612.6404"><tspan
-         x="-1498.6035"
-         y="1680.1478"><tspan
-           style="stroke-width:0.999995">Process 2</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text14312-6-2-4-0-6"
